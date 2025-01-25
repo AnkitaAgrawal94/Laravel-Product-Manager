@@ -1,7 +1,3 @@
-Here’s a **shortened README** with additional instructions for creating multiple categories and products:
-
----
-
 # Laravel Project: Product and Category Management
 
 This project demonstrates managing products and categories in Laravel, including creating categories and products via Laravel Tinker.
